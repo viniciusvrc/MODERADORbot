@@ -7,5 +7,5 @@
 <h4>4 abra o arquivo config.lua e coloque o token do bot e ids</h4>
 <h4>5 ./laund.sh</h4>
 
-[GRUPO TELEGRAM]([https://t.me/Oficinadebots)
+[GRUPO TELEGRAM](https://t.me/Oficinadebots)
 
